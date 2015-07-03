@@ -1,0 +1,48 @@
+.nav {
+	padding-top: 8px;
+}
+
+.nav li {
+	display: inline;
+	text-transform: uppercase;
+	font-size: 13px;
+	font-weight: bold;
+	padding: 20px;
+}
+
+.jumbotron{
+	
+	background-image: url('http://i4.minus.com/ibodhT9kgb6Kpu.png');
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+	height: 500px;
+}
+
+.jumbotron .container {
+	position: relative;
+	text-align: center;
+	top: 100px;
+	color: #fff;
+	font-family: 'Shift', sans-serif;
+	font-weight: bold;
+}
+
+.jumbotron .head {
+	font-size: 70px;
+}
+
+.jumbotron .desc {
+	font-size: 30px;
+}
+
+.learn-more {
+	margin-top: -30px;
+	background-color: #efefef;
+	border-bottom: 1px solid #dbdbdb; 
+}
+
+.learn-more .row {
+	margin: 10px;
+	text-align: center;
+}
